@@ -1,2 +1,2 @@
-lua
+sol
 CopiarEditrar
