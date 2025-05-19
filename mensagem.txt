@@ -1,2 +1,4 @@
 chuva
+sol
+nuvem
 CopiarEditrar
