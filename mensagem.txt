@@ -1,3 +1,4 @@
+chuva
 sol
 nuvem
 CopiarEditrar
